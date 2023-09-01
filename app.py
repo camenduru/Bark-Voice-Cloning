@@ -295,8 +295,7 @@ while run_server:
         gr.Markdown("# <center>🐶🎶⭐ - Bark Voice Cloning</center>")
         gr.Markdown("## <center>🤗 - If you like this space, please star my [github repo](https://github.com/KevinWang676/Bark-Voice-Cloning)</center>")
         gr.Markdown("### <center>🎡 - Based on [bark-gui](https://github.com/C0untFloyd/bark-gui)</center>")
-        gr.Markdown(f""" You can duplicate and use it with a GPU: <a href="https://huggingface.co/spaces/{os.getenv('SPACE_ID')}?duplicate=true"><img style="display: inline; margin-top: 0em; margin-bottom: 0em" src="https://bit.ly/3gLdBN6" alt="Duplicate Space" /></a>
-                         or open in [Colab](https://colab.research.google.com/github/KevinWang676/Bark-Voice-Cloning/blob/main/Bark_Voice_Cloning_UI.ipynb) for quick start 🌟
+        gr.Markdown(f"""Open in [Colab](https://colab.research.google.com/github/KevinWang676/Bark-Voice-Cloning/blob/main/Bark_Voice_Cloning_UI.ipynb) for quick start 🌟
                     """)
 
         with gr.Tab("🎙️ - Clone Voice"):
