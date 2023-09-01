@@ -295,7 +295,7 @@ while run_server:
         gr.Markdown("# <center>🐶🎶⭐ - Bark Voice Cloning</center>")
         gr.Markdown("## <center>🤗 - If you like this space, please star my [github repo](https://github.com/KevinWang676/Bark-Voice-Cloning)</center>")
         gr.Markdown("### <center>🎡 - Based on [bark-gui](https://github.com/C0untFloyd/bark-gui)</center>")
-        gr.Markdown(f"""Open in [Colab](https://colab.research.google.com/github/KevinWang676/Bark-Voice-Cloning/blob/main/Bark_Voice_Cloning_UI.ipynb) for quick start 🌟
+        gr.Markdown(f"""Open in [Colab](https://colab.research.google.com/github/KevinWang676/Bark-Voice-Cloning/blob/main/Bark_Voice_Cloning.ipynb) for quick start 🌟
                     """)
 
         with gr.Tab("🎙️ - Clone Voice"):
